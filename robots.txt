@@ -1,2 +1,3 @@
 User-agent: *
 Host: https://kuzov-mexanik.ru/
+Sitemap: https://kuzov-mexanik.ru/sitemap.xml
