@@ -17,6 +17,10 @@ h2 {
 h3 {
   font-size: 22px; }
 
+.phone > a {
+  text-decoration: none;
+  color: black; }
+
 .phone {
   font-size: 25px; }
 
